@@ -1,6 +1,6 @@
 import { defineStore } from 'pinia';
 
-const fakeStoreUrl = 'https://fakestoreapi.com';
+const fakeStoreUrl = 'http://localhost:3000';
 
 export const useProductStore = defineStore({
   id: 'products',

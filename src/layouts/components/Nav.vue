@@ -1,7 +1,7 @@
 <script setup>
 import { computed } from "vue"
-import { useCartStore } from "@/stores/cart"
-import Search from './Search.vue'
+import { useCartStore } from "@/stores/cart.js"
+import Search from '../../components/Search.vue'
 
 const cartStore = useCartStore()
 

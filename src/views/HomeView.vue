@@ -1,7 +1,7 @@
 <script setup>
 import { computed } from 'vue';
-import ProductCard from '@/components/ProductCard.vue';
-import ProductCardSkeleton from '@/components/ProductCardSkeleton.vue';
+import ProductCard from '@/components/Products/ProductCard.vue';
+import ProductCardSkeleton from '@/components/Products/ProductCardSkeleton.vue';
 import { useProductStore } from '@/stores/products';
 
 const productStore = useProductStore();

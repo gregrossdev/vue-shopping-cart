@@ -1,0 +1,321 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Private Room Queen",
+      "price": 150.00,
+      "description": "2 people can sleep in the queen sized bed. This is a private room.",
+      "image": "https://images.unsplash.com/photo-1522720833375-9c27ffb02a5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2098&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Private Room Queen",
+      "price": 150.00,
+      "description": "2 people can sleep in the queen sized bed. This is a private room.",
+      "image": "https://images.unsplash.com/photo-1522720833375-9c27ffb02a5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2098&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Private Room Queen",
+      "price": 150.00,
+      "description": "2 people can sleep in the queen sized bed. This is a private room.",
+      "image": "https://images.unsplash.com/photo-1522720833375-9c27ffb02a5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2098&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Shared Room Queen w/Twin",
+      "price": 120.00,
+      "description": "2 people can sleep in the queen sized bed. This bed is in a room with a bunk bed.",
+      "image": "https://images.unsplash.com/photo-1522720833375-9c27ffb02a5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2098&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Shared Room Twin w/Queen",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and this one is in the shared room with queen size bed.",
+      "image": "https://images.unsplash.com/photo-1522720833375-9c27ffb02a5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2098&q=80"
+    },
+    {
+      "id": 6,
+      "title": "Shared Room Twin w/Queen",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and this one is in the shared room with queen size bed.",
+      "image": "https://images.unsplash.com/photo-1522720833375-9c27ffb02a5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2098&q=80"
+    },
+    {
+      "id": 7,
+      "title": "Basement Bunk Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and are all located in the basement together.",
+      "image": "https://images.unsplash.com/photo-1522720833375-9c27ffb02a5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2098&q=80"
+    },
+    {
+      "id": 8,
+      "title": "Basement Bunk Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and are all located in the basement together.",
+      "image": "https://images.unsplash.com/photo-1522720833375-9c27ffb02a5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2098&q=80"
+    },
+    {
+      "id": 9,
+      "title": "Shared Room Queen w/Twin",
+      "price": 150.00,
+      "description": "2 people can sleep in the queen sized bed. This bed is in a room with a bunk bed.",
+      "image": "https://images.unsplash.com/photo-1531884070720-875c7622d4c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80"
+    },
+    {
+      "id": 10,
+      "title": "Shared Room Twin w/Queen",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and this one is in the shared room with queen size bed.",
+      "image": "https://images.unsplash.com/photo-1531884070720-875c7622d4c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80"
+    },
+    {
+      "id": 11,
+      "title": "Shared Room Twin w/Queen",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and this one is in the shared room with queen size bed.",
+      "image": "https://images.unsplash.com/photo-1531884070720-875c7622d4c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80"
+    },
+    {
+      "id": 12,
+      "title": "Shared Room Queen w/Twin",
+      "price": 150.00,
+      "description": "2 people can sleep in the queen sized bed. This bed is in a room with a bunk bed.",
+      "image": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 13,
+      "title": "Shared Room Twin w/Queen",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and this one is in the shared room with queen size bed.",
+      "image": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 14,
+      "title": "Shared Room Twin w/Queen",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and this one is in the shared room with queen size bed.",
+      "image": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 15,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 16,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 17,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 18,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 19,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 20,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 21,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 22,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 23,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 24,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 25,
+      "title": "Basement Bunk Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and are all located in the basement together.",
+      "image": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 26,
+      "title": "Basement Bunk Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and are all located in the basement together.",
+      "image": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 27,
+      "title": "Shared Room Queen w/Twin",
+      "price": 120.00,
+      "description": "2 people can sleep in the queen sized bed. This bed is in a room with a bunk bed.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 28,
+      "title": "Shared Room Twin w/Queen",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and this one is in the shared room with queen size bed.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 29,
+      "title": "Shared Room Twin w/Queen",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and this one is in the shared room with queen size bed.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 30,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 31,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 32,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 33,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 34,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 35,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 36,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 37,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 38,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 39,
+      "title": "Shared Room Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and these are in the shared room with the twin sized beds.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 40,
+      "title": "Basement Bunk Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and are all located in the basement together.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 41,
+      "title": "Basement Bunk Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and are all located in the basement together.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 42,
+      "title": "Basement Bunk Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and are all located in the basement together.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 43,
+      "title": "Basement Bunk Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and are all located in the basement together.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 44,
+      "title": "Basement Bunk Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and are all located in the basement together.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 45,
+      "title": "Basement Bunk Twin",
+      "price": 60.00,
+      "description": "The twin mattresses are bunk beds and are all located in the basement together.",
+      "image": "https://images.unsplash.com/photo-1545063914-a1a6ec821c88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    }
+  ]
+}
+
+

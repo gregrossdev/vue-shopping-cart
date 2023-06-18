@@ -1,5 +1,5 @@
 import { defineStore } from 'pinia';
-import { CART_STORAGE } from '../../../shopping-cart/src/composables/usePersistCart.js';
+import { CART_STORAGE } from '@/composables/usePersistCart.js';
 import { useProductStore } from './products';
 
 export const useCartStore = defineStore({

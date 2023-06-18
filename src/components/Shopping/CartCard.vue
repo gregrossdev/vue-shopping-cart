@@ -1,6 +1,6 @@
 <script setup>
 import { useCartStore } from '@/stores/cart.js';
-import { toCurrency } from '../shared/utils.js'
+import { toCurrency } from '../../shared/utils.js'
 
 const cartStore = useCartStore()
 defineProps({

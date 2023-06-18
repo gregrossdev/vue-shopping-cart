@@ -6,7 +6,7 @@ import { useCartStore } from '@/stores/cart';
 import { useProductStore } from '@/stores/products';
 import { toCurrency } from '../shared/utils';
 
-import CartCardSkeleton from '../components/CartCardSkeleton.vue';
+import CartCardSkeleton from '../components/Shopping/CartCardSkeleton.vue';
 
 const cartStore = useCartStore();
 const productStore = useProductStore();
