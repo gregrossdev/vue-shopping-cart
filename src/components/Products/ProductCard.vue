@@ -21,7 +21,7 @@ defineProps({
         </figure> 
         <div class="card-body">
             <h2 class="card-title">
-                <router-link class="link link-hover" :to="`/product/${product.id}`">{{ product.title }}</router-link>
+                <RouterLink class="link link-hover" :to="`/product/${product.id}`">{{ product.title }}</RouterLink>
             </h2>
             <p>{{ toCurrency(product.price) }}</p>
             <div class="justify-end card-actions">
